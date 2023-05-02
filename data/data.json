@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Jamie Oliver",
-        "picture": "https://example.com/jamie-oliver.jpg",
+        "picture": "https://i.ibb.co/WBTLCym/chef1.jpg",
         "experience": "20+ years",
         "recipes": [
             {
@@ -87,7 +87,7 @@
     {
         "id": 2,
         "name": "Gordon Ramsay",
-        "picture": "https://example.com/gordon-ramsay.jpg",
+        "picture": "https://i.ibb.co/MRYDvMd/2.jpg",
         "experience": "30+ years",
         "recipes": [
             {
@@ -172,7 +172,7 @@
     {
         "id": 3,
         "name": "Nigella Lawson",
-        "picture": "https://example.com/nigella-lawson.jpg",
+        "picture": "https://i.ibb.co/FW6KHH1/chef3.jpg",
         "experience": "25+ years",
         "recipes": [
             {
@@ -257,36 +257,255 @@
     {
         "id": 4,
         "name": "Heston Blumenthal",
-        "picture": "https://example.com/heston-blumenthal.jpg",
+        "picture": "https://i.ibb.co/brStVBf/chef4.jpg",
         "experience": "35+ years",
         "recipes": [
-            "Meat Fruit",
-            "Nitro-Scrambled Eggs",
-            "Sound of the Sea"
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "spaghetti",
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "canned tomatoes",
+                    "tomato paste",
+                    "red wine",
+                    "bay leaf",
+                    "salt",
+                    "pepper"
+                ],
+                "method": [
+                    "Cook the spaghetti according to the package instructions.",
+                    "In a large pan, cook the ground beef over medium-high heat until browned.",
+                    "Add the onion and garlic to the pan and cook until softened.",
+                    "Stir in the canned tomatoes, tomato paste, red wine, bay leaf, salt, and pepper.",
+                    "Simmer the sauce for 20-30 minutes, stirring occasionally.",
+                    "Serve the sauce over the spaghetti."
+                ],
+                "ratings": "3"
+            },
+            {
+                "name": "Chicken Curry",
+                "ingredients": [
+                    "chicken breast",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "curry powder",
+                    "coconut milk",
+                    "tomato",
+                    "cilantro",
+                    "lime juice",
+                    "salt"
+                ],
+                "method": [
+                    "Cut the chicken into bite-sized pieces.",
+                    "In a large pan, cook the onion, garlic, and ginger over medium-high heat until softened.",
+                    "Add the curry powder and cook for 1-2 minutes.",
+                    "Stir in the chicken and cook until browned.",
+                    "Add the coconut milk and tomato to the pan and bring to a simmer.",
+                    "Simmer the curry for 20-30 minutes, stirring occasionally.",
+                    "Stir in the cilantro and lime juice.",
+                    "Serve the curry with rice."
+                ],
+                "ratings": "4"
+            },
+            {
+                "name": "Chocolate Chip Cookies",
+                "ingredients": [
+                    "butter",
+                    "white sugar",
+                    "brown sugar",
+                    "vanilla extract",
+                    "eggs",
+                    "flour",
+                    "baking soda",
+                    "salt",
+                    "chocolate chips"
+                ],
+                "method": [
+                    "Preheat the oven to 375 degrees F.",
+                    "In a large mixing bowl, cream together the butter, white sugar, brown sugar, and vanilla extract.",
+                    "Beat in the eggs one at a time.",
+                    "In a separate bowl, whisk together the flour, baking soda, and salt.",
+                    "Gradually mix the dry ingredients into the wet mixture until just combined.",
+                    "Fold in the chocolate chips.",
+                    "Drop spoonfuls of the dough onto a baking sheet lined with parchment paper.",
+                    "Bake for 10-12 minutes, or until the edges are golden brown.",
+                    "Allow the cookies to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely."
+                ],
+                "ratings": "5"
+            }
         ],
         "totalLikes": "120000"
     },
     {
         "id": 5,
         "name": "Mary Berry",
-        "picture": "https://example.com/mary-berry.jpg",
+        "picture": "https://i.ibb.co/FDYKgNz/chef5.jpg",
         "experience": "40+ years",
         "recipes": [
-            "Victoria Sponge",
-            "Roast Chicken",
-            "Apple Pie"
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "spaghetti",
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "canned tomatoes",
+                    "tomato paste",
+                    "red wine",
+                    "bay leaf",
+                    "salt",
+                    "pepper"
+                ],
+                "method": [
+                    "Cook the spaghetti according to the package instructions.",
+                    "In a large pan, cook the ground beef over medium-high heat until browned.",
+                    "Add the onion and garlic to the pan and cook until softened.",
+                    "Stir in the canned tomatoes, tomato paste, red wine, bay leaf, salt, and pepper.",
+                    "Simmer the sauce for 20-30 minutes, stirring occasionally.",
+                    "Serve the sauce over the spaghetti."
+                ],
+                "ratings": "3"
+            },
+            {
+                "name": "Chicken Curry",
+                "ingredients": [
+                    "chicken breast",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "curry powder",
+                    "coconut milk",
+                    "tomato",
+                    "cilantro",
+                    "lime juice",
+                    "salt"
+                ],
+                "method": [
+                    "Cut the chicken into bite-sized pieces.",
+                    "In a large pan, cook the onion, garlic, and ginger over medium-high heat until softened.",
+                    "Add the curry powder and cook for 1-2 minutes.",
+                    "Stir in the chicken and cook until browned.",
+                    "Add the coconut milk and tomato to the pan and bring to a simmer.",
+                    "Simmer the curry for 20-30 minutes, stirring occasionally.",
+                    "Stir in the cilantro and lime juice.",
+                    "Serve the curry with rice."
+                ],
+                "ratings": "4"
+            },
+            {
+                "name": "Chocolate Chip Cookies",
+                "ingredients": [
+                    "butter",
+                    "white sugar",
+                    "brown sugar",
+                    "vanilla extract",
+                    "eggs",
+                    "flour",
+                    "baking soda",
+                    "salt",
+                    "chocolate chips"
+                ],
+                "method": [
+                    "Preheat the oven to 375 degrees F.",
+                    "In a large mixing bowl, cream together the butter, white sugar, brown sugar, and vanilla extract.",
+                    "Beat in the eggs one at a time.",
+                    "In a separate bowl, whisk together the flour, baking soda, and salt.",
+                    "Gradually mix the dry ingredients into the wet mixture until just combined.",
+                    "Fold in the chocolate chips.",
+                    "Drop spoonfuls of the dough onto a baking sheet lined with parchment paper.",
+                    "Bake for 10-12 minutes, or until the edges are golden brown.",
+                    "Allow the cookies to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely."
+                ],
+                "ratings": "5"
+            }
         ],
         "totalLikes": "90000"
     },
     {
         "id": 6,
         "name": "Tom Kerridge",
-        "picture": "https://example.com/tom-kerridge.jpg",
+        "picture": "https://i.ibb.co/KNyxdMj/chef6.jpg",
         "experience": "15+ years",
         "recipes": [
-            "Pub Classics",
-            "Lobster Thermidor",
-            "Barbecue Beef Brisket"
+            {
+                "name": "Spaghetti Bolognese",
+                "ingredients": [
+                    "spaghetti",
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "canned tomatoes",
+                    "tomato paste",
+                    "red wine",
+                    "bay leaf",
+                    "salt",
+                    "pepper"
+                ],
+                "method": [
+                    "Cook the spaghetti according to the package instructions.",
+                    "In a large pan, cook the ground beef over medium-high heat until browned.",
+                    "Add the onion and garlic to the pan and cook until softened.",
+                    "Stir in the canned tomatoes, tomato paste, red wine, bay leaf, salt, and pepper.",
+                    "Simmer the sauce for 20-30 minutes, stirring occasionally.",
+                    "Serve the sauce over the spaghetti."
+                ],
+                "ratings": "3"
+            },
+            {
+                "name": "Chicken Curry",
+                "ingredients": [
+                    "chicken breast",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "curry powder",
+                    "coconut milk",
+                    "tomato",
+                    "cilantro",
+                    "lime juice",
+                    "salt"
+                ],
+                "method": [
+                    "Cut the chicken into bite-sized pieces.",
+                    "In a large pan, cook the onion, garlic, and ginger over medium-high heat until softened.",
+                    "Add the curry powder and cook for 1-2 minutes.",
+                    "Stir in the chicken and cook until browned.",
+                    "Add the coconut milk and tomato to the pan and bring to a simmer.",
+                    "Simmer the curry for 20-30 minutes, stirring occasionally.",
+                    "Stir in the cilantro and lime juice.",
+                    "Serve the curry with rice."
+                ],
+                "ratings": "4"
+            },
+            {
+                "name": "Chocolate Chip Cookies",
+                "ingredients": [
+                    "butter",
+                    "white sugar",
+                    "brown sugar",
+                    "vanilla extract",
+                    "eggs",
+                    "flour",
+                    "baking soda",
+                    "salt",
+                    "chocolate chips"
+                ],
+                "method": [
+                    "Preheat the oven to 375 degrees F.",
+                    "In a large mixing bowl, cream together the butter, white sugar, brown sugar, and vanilla extract.",
+                    "Beat in the eggs one at a time.",
+                    "In a separate bowl, whisk together the flour, baking soda, and salt.",
+                    "Gradually mix the dry ingredients into the wet mixture until just combined.",
+                    "Fold in the chocolate chips.",
+                    "Drop spoonfuls of the dough onto a baking sheet lined with parchment paper.",
+                    "Bake for 10-12 minutes, or until the edges are golden brown.",
+                    "Allow the cookies to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely."
+                ],
+                "ratings": "5"
+            }
         ],
         "totalLikes": "70000"
     }
