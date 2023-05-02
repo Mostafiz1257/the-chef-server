@@ -2,8 +2,9 @@
     {
         "id": 1,
         "name": "Jamie Oliver",
-        "picture": "https://i.ibb.co/WBTLCym/chef1.jpg",
+        "picture": "https://i.ibb.co/5jWY8RS/n1.jpg",
         "experience": "20+ years",
+        "bio": "When you think about world-renowned chefs, what’s the first name that comes to mind? Is it Gordon Ramsay? Jamie Oliver? Wolfgang Puck? Martha Stewart? With so many celebrity chefs constantly popping up in our news feeds and TV sets, it can be hard to keep track of what everybody’s doing, and even harder to decide who’s the cream of the crop – pun intended.",
         "recipes": [
             {
                 "name": "Spaghetti Bolognese",
@@ -87,8 +88,9 @@
     {
         "id": 2,
         "name": "Gordon Ramsay",
-        "picture": "https://i.ibb.co/MRYDvMd/2.jpg",
+        "picture": "https://i.ibb.co/tmjBtCV/n2.jpg",
         "experience": "30+ years",
+        "bio": "When you think about world-renowned chefs, what’s the first name that comes to mind? Is it Gordon Ramsay? Jamie Oliver? Wolfgang Puck? Martha Stewart? With so many celebrity chefs constantly popping up in our news feeds and TV sets, it can be hard to keep track of what everybody’s doing, and even harder to decide who’s the cream of the crop – pun intended.",
         "recipes": [
             {
                 "name": "Spaghetti Bolognese",
@@ -172,8 +174,9 @@
     {
         "id": 3,
         "name": "Nigella Lawson",
-        "picture": "https://i.ibb.co/FW6KHH1/chef3.jpg",
+        "picture": "https://i.ibb.co/Hd4J847/n3.jpg",
         "experience": "25+ years",
+        "bio": "When you think about world-renowned chefs, what’s the first name that comes to mind? Is it Gordon Ramsay? Jamie Oliver? Wolfgang Puck? Martha Stewart? With so many celebrity chefs constantly popping up in our news feeds and TV sets, it can be hard to keep track of what everybody’s doing, and even harder to decide who’s the cream of the crop – pun intended.",
         "recipes": [
             {
                 "name": "Spaghetti Bolognese",
@@ -257,8 +260,9 @@
     {
         "id": 4,
         "name": "Heston Blumenthal",
-        "picture": "https://i.ibb.co/brStVBf/chef4.jpg",
+        "picture": "https://i.ibb.co/2ZXH1Gb/n4.jpg",
         "experience": "35+ years",
+        "bio": "When you think about world-renowned chefs, what’s the first name that comes to mind? Is it Gordon Ramsay? Jamie Oliver? Wolfgang Puck? Martha Stewart? With so many celebrity chefs constantly popping up in our news feeds and TV sets, it can be hard to keep track of what everybody’s doing, and even harder to decide who’s the cream of the crop – pun intended.",
         "recipes": [
             {
                 "name": "Spaghetti Bolognese",
@@ -342,8 +346,9 @@
     {
         "id": 5,
         "name": "Mary Berry",
-        "picture": "https://i.ibb.co/FDYKgNz/chef5.jpg",
+        "picture": "https://i.ibb.co/mHQfq27/n6.jpg",
         "experience": "40+ years",
+        "bio": "When you think about world-renowned chefs, what’s the first name that comes to mind? Is it Gordon Ramsay? Jamie Oliver? Wolfgang Puck? Martha Stewart? With so many celebrity chefs constantly popping up in our news feeds and TV sets, it can be hard to keep track of what everybody’s doing, and even harder to decide who’s the cream of the crop – pun intended.",
         "recipes": [
             {
                 "name": "Spaghetti Bolognese",
@@ -427,8 +432,9 @@
     {
         "id": 6,
         "name": "Tom Kerridge",
-        "picture": "https://i.ibb.co/KNyxdMj/chef6.jpg",
+        "picture": "https://i.ibb.co/dg7H1VL/n5.jpg",
         "experience": "15+ years",
+        "bio": "When you think about world-renowned chefs, what’s the first name that comes to mind? Is it Gordon Ramsay? Jamie Oliver? Wolfgang Puck? Martha Stewart? With so many celebrity chefs constantly popping up in our news feeds and TV sets, it can be hard to keep track of what everybody’s doing, and even harder to decide who’s the cream of the crop – pun intended.",
         "recipes": [
             {
                 "name": "Spaghetti Bolognese",

@@ -11,6 +11,13 @@ app.get('/allData', (req, res) => {
     res.send(allData)
 })
 
+app.get('/allData/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const dataDetails = allData?.find(pd => pd.id ==id)
+    res.send(dataDetails)
+})
+
 app.listen(port, () => {
     console.log(`Chef cooking on port ${port}`);
 })
